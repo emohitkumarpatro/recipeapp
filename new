@@ -1,0 +1,16 @@
+          <h1>Meal Title</h1>
+          <img
+            src="https://www.themealdb.com/images/media/meals/uttrxw1511637813.jpg"
+            alt=""
+          />
+          <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum
+            veniam optio libero illo in architecto ducimus cupiditate dicta
+            officiis? Officiis, expedita. Quia earum magni voluptatem nobis. Sit
+            libero minima excepturi.
+          </p>
+          <ul>
+            <li>img 1 / measure</li>
+            <li>img 2 / measure</li>
+            <li>img 3 / measure</li>
+          </ul>
